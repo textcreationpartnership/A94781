@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious message to the speaker of the House of Peeres: to be communicated to both Houses of Parliament, and to the Scots Commissioners. Also Collonel Hammonds declaration concerning the Kings Majesties comming into the Isle of Wight, and for those which shall come thither from forraign parts. Together, with His Majesties speech and propositions, at his comming into the said island, severall conferences between His Majesty, Collonel Hammond, and others. Certified in a Letter, sent from an officer out of the said island. Imprimatur, Gilbert Mabbot.</title>
+            <author>Tracey, H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94781</idno>
+            <idno type="STC">Wing T2002</idno>
+            <idno type="STC">Thomason E416_14</idno>
+            <idno type="STC">ESTC R204483</idno>
+            <idno type="EEBO-CITATION">99863973</idno>
+            <idno type="PROQUEST">99863973</idno>
+            <idno type="VID">161293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious message to the speaker of the House of Peeres: to be communicated to both Houses of Parliament, and to the Scots Commissioners. Also Collonel Hammonds declaration concerning the Kings Majesties comming into the Isle of Wight, and for those which shall come thither from forraign parts. Together, with His Majesties speech and propositions, at his comming into the said island, severall conferences between His Majesty, Collonel Hammond, and others. Certified in a Letter, sent from an officer out of the said island. Imprimatur, Gilbert Mabbot.</title>
+                  <author>Tracey, H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, and are to be sold at the royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact a letter by Charles I nor the text of Col. Hammond's declaration; rather a letter dated and signed: Cawse Castle, Nov. 17. 1647. H. Tracey.</note>
+                  <note>Signatures: A4.</note>
+                  <note>Annotation on Thomason copy: "Novemb: 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161293:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES MOST GRACIOUS MESSAGE TO THE Speaker of the Houſe of Peeres: To be communicated to both Houſes of Parliament, and to the Scots Commiſſioners. ALSO, Collonel <hi>Hammonds</hi> Declaration concerning the Kings Majeſties comming into the Iſle of <hi>Wight,</hi> and for thoſe which ſhall come thither from forraign parts. <hi>TOGETHER,</hi> With His Majeſties Speech and Propoſitions, at His com<g ref="char:EOLhyphen"/>ming into the ſaid Iſland, ſeverall conferences between His Majeſty, Collonel <hi>Hammond,</hi> and others. <hi>Certified in a Letter, ſent from an Officer out of the ſaid Iſland.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Gilbert Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Bernard Alſop,</hi> and are to be ſold at the royall <hi>Exchange</hi> in <hi>Cornhill.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161293:2"/>
+            <pb facs="tcp:161293:2"/>
+            <head>A Letter From a chief Officer in the Iſle of <hi>Wight</hi> concerning the paſſages between the King and Colonell <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> ſince his Mejeſties comming thither.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YEſterday the Governour of this Iſle Collonell <hi>Hamond,</hi> diſpached a ſecond meſſenger to the Parl. with letters, by whom I thought to have ſent this incloſed; which nevertheleſſe I hope will come as ſeaſonable to you now, onely I ſhall come ſhort in this, that will not come time enough to bring the firſt intel<g ref="char:EOLhyphen"/>ligence of the Kings comming hither; which I dare aver to be altogether unexpected by the Governour or any others here, and the manner as ſtrange unto us; for as Colonell <hi>Hamond</hi> was going from Cariſbrook Caſtle to Newport, where he was to meet diverſe Officers and Gentlemen of the Iſle, Sir <hi>Iohn Barkley</hi> and M. <hi>Aſhburn<g ref="char:EOLhyphen"/>ham</hi> came riding ſuddenly to him, and acquainted him that his Majeſty had an apprehenſion that he could not ſtay at <hi>Hampton-Court,</hi> without apparent hazard to His Royall Perſon, as His Majeſty was credibly informed; and therefore thought good to come away from thence, and had made choice of that place, deſiring to put him<g ref="char:EOLhyphen"/>ſelf into his hands for protection and ſafety, which His Majeſty was the rather moved to do, for that he was a member of the Army, from which he had not with<g ref="char:EOLhyphen"/>drawn himſelf, if he had not underſtood that ſome did
+<pb facs="tcp:161293:3"/>plot and combine againſt him to take away his life: And after ſome other diſcourſe between M. <hi>Aſhburnham</hi> and Colonell <hi>Hamond,</hi> the Colonell deſired to know where His Majeſty was at that time in Perſon, and M. <hi>Aſhburn<g ref="char:EOLhyphen"/>ham</hi> and Sir <hi>Iohn Barkley</hi> did both affirme that they left His Majeſty at a place called <hi>Stichfield,</hi> neer the water<g ref="char:EOLhyphen"/>ſide in <hi>Hampſheir,</hi> whereupon the Governour told them that if His Majeſty were pleaſed to come over into that Iſland, he would undertake to protect him from violence, and doe his beſt endeavour to preſerve his Royall Perſon in honour, ſafety, and freedome: Then Colonell <hi>Ha<g ref="char:EOLhyphen"/>mond</hi> ſent for Colonell <hi>Baſket</hi> the Governour of <hi>Cawſe</hi> Caſtle, who with ſome other officers attended the Go<g ref="char:EOLhyphen"/>vernour over the water; and when they came to His Ma<g ref="char:EOLhyphen"/>jeſty, the Governour and the reſt firſt kiſt his hand, and then His Majeſty ſpake to him to this effect.</p>
+            <p>
+               <hi>Hamond,</hi> after an intolerable reſtraint to my Perſon at <hi>Hampton</hi> Court, I found there was a further deſigne againſt my Perſon, by ſome which inſinuated them<g ref="char:EOLhyphen"/>ſelves into diverſe Regiments of the Army, and having an earneſt deſire of the ſerling of the Kingdome in ſuch ſort as might beſt conduce to a laſting Peace throughout my Dominions; and not to be an inſtrument of ſtirring up a new warre; I have thought good to come in this place with confidence of your fidelity in protecting my Perſon from danger, untill by ſuch addreſſes as ſhall be made unto us by the Parliament, there be a mutuall agree<g ref="char:EOLhyphen"/>ment concluded, and our Kingdome ſettled.</p>
+            <p>To which Colonell <hi>Hamond</hi> declaring that he tendred His Majeſties Perſon above his own life, and would not faile in doing his utmoſt in fulfilling His Majeſties juſt deſires (in relation to the orders and directions which he ſhould receive from the Parliament:) So His Majeſty attended by the Governour Colonell <hi>Hamond,</hi> Sir <hi>Iohn
+<pb facs="tcp:161293:3" rendition="simple:additions"/>Barclus,</hi> M. <hi>Aſhburnham,</hi> and the other officers of the Iſle came over the water, and went to <hi>Cawſe</hi>-Caſtle, when according to the time there was to prapare, he was as Royally entertined as the Iſle could afford.</p>
+            <p>Since which time his Majeſty hath rode abroad a hunt<g ref="char:EOLhyphen"/>ing in the Park, which is very plentifully ſtored with Deer, and his Majeſty is gallantly accomodated with all things, which is done with the more conveniency and better facility, for that the Govern. had newly ſettled his houſe, and (though a Batchellor) had placed his houſhold officers fit for his part and place; he hath alſo ſent for his mother which lives at <hi>Cherſe,</hi> and is expected here the next week; he hath alſo written ſeverall letters to the Parliament, not onely to acquaint them of the manner of the Kings comming hither, but alſo for to underſtand their pleaſure therein, and for proviſion of money and ſuch perſons, he decides about His Majeſty as may be moſt for his honour and content; to which end at leaſt ſome Divines, and three or four of the bed-chamber which attended at <hi>Hampton</hi>-Court are deſired, as alſo ſome Commiſſioners from the Parliament, for the better carrying on of things ſo as may be moſt acceptable and beſtwarranted: In the mean time the Governour hath a ſpeciall care to keep Delinquents of that Iſle from ha<g ref="char:EOLhyphen"/>ving any free converſe to his Majeſty, and it is declared at all the Ports, that none ſhall be admitted the Iſle to come to His Majeſty from forraign parts, without ap<g ref="char:EOLhyphen"/>probation from the Parliament of one or both King<g ref="char:EOLhyphen"/>domes: The other day as His Majeſty was walking a<g ref="char:EOLhyphen"/>broad, he asked the Governour certaine queſtions con<g ref="char:EOLhyphen"/>cerning the ſtrength of the Iſle, and the num<g ref="char:EOLhyphen"/>ber of inhabitants &amp;c. to all which the Gover<g ref="char:EOLhyphen"/>nour gave His Majeſty ſatisfaction; and truly I muſt confeſſe ingeniouſly, I think here are men ſufficient
+<pb facs="tcp:161293:4"/>with the benefit of (the inaceſſableneſſe to the place by nature) to preſerve and defend it againſt all attempts whatſoever, but as yet the Governours Regiment is not come thither: I the rather make mention of the ſtrength of this place to give ſatisfaction to that which may be infuſed by ſome to breed further feares in thoſe whom they would perſwade to believe that his Majeſty is in danger of a forraign Nation which indeed is ſo frivalous an objection, that it ſcrace deſerves the remembrance much leſſe the an<g ref="char:EOLhyphen"/>ſwering.</p>
+            <p>It is ſaid that the Kins goes to morrow to Newport being the chiefe towne about the middeſt of the Iſle but returnes again to Cawſe Caſtle, Our expectations are now to heare what the Parliament will order concerning him, The firſt meſſenger is returned and reports that they have voted that his Majeſty ſhall recide here a time for ſafety, which we are very glad to hear of, for ſurely he cannot be in a ſafer place, nor more convenient, as affairs of the Kingdom now ſtand, where a free intercourſe may be had between him and the Parliament, his reſiding here, may alſo hinder the raiſing of any new parties, and fruſtrate the deſignes which were hatch<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:161293:4"/>by ſome, ſo that the like opportunity for ſetling the Kingdomes peace, to the ſatisfying of all parts is without the danger of a new war, is not thought to have been yet offered unto us, for a bleſſing on which is the prayers of</p>
+            <closer>
+               <signed>
+                  <hi>Your aſſured friend,</hi> H. Tracey.</signed>
+               <dateline>
+                  <hi>Cawſe Caſtle,</hi>
+                  <date>
+                     <hi>Nov.</hi> 17. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>SInce the writing hereof there hath beene ſome meanes uſed for Mr. <hi>Maull</hi> and others to bee admitted to attend his Maje<g ref="char:EOLhyphen"/>ſty, which I underſtand the Governour will rea<g ref="char:EOLhyphen"/>dily allowe of, ſo ſoone as the pleaſure of the houſe is knowne, touching which buſineſſe bee hath ſent to the Parliament already. This mor<g ref="char:EOLhyphen"/>ning there was overtaken, which was landed here, one who is ſuſpected to be a perſon not fit to reſide here: for that he ſeemed not to be a<g ref="char:EOLhyphen"/>ble to give a good account of his comming hi<g ref="char:EOLhyphen"/>ther, or fidelity to the Parliament; he is to be examined by the Governour, and then unleſſe he can ſhew a juſt cauſe for his comming hither, he will be forced to depart again; for Collonel <hi>Hammond</hi> as he declares himſelf that he will pro<g ref="char:EOLhyphen"/>tect
+<pb facs="tcp:161293:5"/>his Majeſties perſon doth likewiſe declare his realty to the Cauſe in which he hath ingaged in behalfe of the whole Kingdome, and aſſure your ſelfe will in this bui<g ref="char:EOLhyphen"/>ſineſſe approve himſelf a gentleman which will not recide from his former principles, but a man full of integrity, and lookes more on the ſetling of this diſtracted King<g ref="char:EOLhyphen"/>dom then on any private intereſt, which if God be pleaſed to make him an Inſtrument of, hee deſires it may redownd to the praiſe of him by whoſe providence his Majeſty came hither.</p>
+            <p>
+               <hi>Novemb.</hi> the 17. His Majeſty ſent a Letter to the houſe of Peers directed to the Speaker of the Lords houſe <hi>pro tempore,</hi> to be communicated to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and to the Scots Commiſſioners. His Majeſty in the ſaid letter expreſſeth much affection towards the ſet<g ref="char:EOLhyphen"/>ling of the Kingdomes Peace. Alſo His Majeſty deſires both Houſes, that they would effectually proceed on in ſending the Propoſitions to him; and withall that he might have admittance to come to <hi>London</hi> to treat with his Parliament, and His Majeſty will give ample ſatis<g ref="char:EOLhyphen"/>faction for the ſetling of a firm and wel grounded Peace. This for certaine is the effect of His Majeſties letter, which was dated in this Iſland of <hi>Wight,</hi> and</p>
+            <closer>
+               <signed>Signed <hi>CHARLES</hi> REX.</signed>
+               <dateline>
+                  <date>Novemb. 17 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
